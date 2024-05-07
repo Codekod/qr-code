@@ -34,7 +34,7 @@ html {
 .container {
     max-width: 1440px;
     height: 100vh;
-    background-color: var(--grayish-blue);
+    background-color: var(--light-grey);
     display: flex;
     align-items: center;
     justify-content: center;
