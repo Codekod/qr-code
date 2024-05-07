@@ -33,7 +33,7 @@ html {
 
 .container {
     max-width: 1440px;
-    height: 95vh;
+    height: 100vh;
     background-color: var(--grayish-blue);
     display: flex;
     align-items: center;
@@ -44,8 +44,8 @@ html {
     border-radius: 8px;
     padding: 20px; 
     text-align: center;
-    width: 280px;
-    height: 60vh;
+    width: 270px;
+    height: 55vh;
     background-color: var(--white);
     
   
